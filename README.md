@@ -6,7 +6,7 @@ This app is all about tracking of your tasks that you need to complete, or thing
 - CSS
 - Javascript
 
-##### Features:-
+##### Features
 - User can add their tasks .
 - User can edit their tasks .
 - User can remove their tasks .
